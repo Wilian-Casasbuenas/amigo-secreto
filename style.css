@@ -126,7 +126,7 @@ button {
 }
 
 /* Listas */
-ul {
+ul,p {
     list-style-type: none;
     color: var(--color-text);
     font-family: "Inter", sans-serif;
